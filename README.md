@@ -1,12 +1,12 @@
 # header
 ## header
 ### header
-learn git and github
+learn git and GitHub
 go :
 
-'''
+```
 
 inside
 outside
 
-'''
+```
